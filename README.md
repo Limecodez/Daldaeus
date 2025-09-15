@@ -1,4 +1,6 @@
-# Eclipse Engine
+# Daldaeus Engine W/Eclipse Engine
+
+Original README for Eclipse:
 WIP Friday Night Funkin' Engine made in [Godot 4.3](https://godotengine.org/)!
 
 It's **very** unfinished, because I made this to help myself learn a bit about coding.
