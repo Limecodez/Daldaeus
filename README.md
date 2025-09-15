@@ -1,6 +1,15 @@
 # Daldaeus Engine W/Eclipse Engine
+The engine is a wip and being worked on with the following people:
+Limecodez
+CHICKEN/DDeltroid
+
+this was being modified for DATA ROT.  A Dead air inspired fnf mod
+
+
+
 
 Original README for Eclipse:
+
 WIP Friday Night Funkin' Engine made in [Godot 4.3](https://godotengine.org/)!
 
 It's **very** unfinished, because I made this to help myself learn a bit about coding.
